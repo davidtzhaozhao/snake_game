@@ -1,15 +1,18 @@
 # snake_game 
 
 ## html
+````
 <body onload='SnakeGame()'>
   <h1>Snake Game 2.0</h1>
 <table id='main'></table>
   <br>
   <button id='reset'>Reset</button>
 </body>
+````
 
 
 ## css
+````
 body{
   padding: 20px
 }
@@ -28,6 +31,6 @@ td {
   font-size: 0;
 }
 
-
+````
 ## js
 see in js file
